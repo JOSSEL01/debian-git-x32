@@ -1,0 +1,13 @@
+# Archivos de compilación
+git-build/
+git-install/
+*.tar.xz
+*.tar.gz
+*.o
+*.a
+*.so
+*.tmp
+
+# Archivos temporales de checkinstall
+doc-pak/
+description-pak
